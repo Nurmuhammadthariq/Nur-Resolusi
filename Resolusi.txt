@@ -1,6 +1,8 @@
 Resolusi thoriq
-- Konsisten Mengikuti coding di dicoding
-- Belajar Front end
+- Konsisten Belajar web dev:
+  1. Belajar Front end
+  2. Belajar BackEnd
+- Konsisten Belajar UI/UX Web Design
 - Belajar membuat project sendiri
 - Membuat portfolio
 
