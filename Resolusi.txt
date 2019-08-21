@@ -1,4 +1,6 @@
 Resolusi thoriq
 - Konsisten Mengikuti coding di dicoding
+- Belajar Front end
 - Belajar membuat project sendiri
 - Membuat portfolio
+
